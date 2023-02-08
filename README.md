@@ -36,12 +36,12 @@
 
 ## stays
 
-| #   | checkin          | checkin time | checkout         | checkout time | stay                | url               |
-| --- | ---------------- | :----------: | ---------------- | ------------- | :------------------ | :---------------- |
-| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | Akranes             | shorturl.at/kwQX5 |
-| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | Kirkjubæjarklaustur | shorturl.at/kxyFZ |
-| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | Neskaupstaður       | shorturl.at/lvMSW |
-| 4.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | Hrísey              | shorturl.at/eilyU |
+| #   | checkin          | checkin time | checkout         | checkout time | stay                                     |
+| --- | ---------------- | :----------: | ---------------- | ------------- | :--------------------------------------- |
+| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](shorturl.at/kwQX5)             |
+| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](shorturl.at/kxyFZ) |
+| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](shorturl.at/lvMSW)       |
+| 4.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](shorturl.at/eilyU)              |
 
 ```text
         July                 August              September
