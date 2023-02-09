@@ -63,16 +63,8 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 1. Arrive at Reykjavik (Keflavik)
 2. Pickup Rental Car
 3. Head to Blue Lagoon
-4. Head back to room at Akranes
-
-
-5. Potential things to do:
-    1. Golden Circle (day 2)
-    2. Blue Lagoon (day 1)
-    3. Plane wreck (if possible else not) (low priority)
-    4. Hiking in Thingvellir National Park (day 2)
-    5. Town Center of Reykjavik (day 1)
-    6. Snæfellsjökull National Park, Iceland (day 3)
+4. Checkout the town center of Reykjavik (if possible)
+5. Head back to room at Akranes
 
 ## 01-aug-2023 (tue)
 
@@ -83,7 +75,6 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 Full moon!
 
 TODO: See if there are any activities at Thingvellir National Park
-TODO: How to fit Snæfellsjökull National Park, Iceland
 
 ## 02-aug-2023 (wed)
 
@@ -153,7 +144,7 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 1. Myvatn Hot Baths
 2. Detifoss Waterfall
-3. Start driving towards Árskógssandur
+3. Start driving towards Árskógssandur and arrive at Hrísey
 
 ## 07-aug-2023 (mon)
 
@@ -167,10 +158,12 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 ## 09-aug-2023 (sun)
 
+1. Town c
+2. Head out from Reyjkavik on 09-aug-2023 evening
+
 ## things we want to do
 
 1. Vattarnes Sea Cliffs
-2. Whale watching
 
 ## references
 
@@ -182,6 +175,5 @@ Price: Adults - 1700 isk and 12-15 years - 850
 6. [Reynisfjara Black Sand Beach](https://guidetoiceland.is/travel-iceland/drive/reynisfjara)
 7. [Skyggnisvatn, 851, Iceland](https://www.instagram.com/p/CNnPF8rKf2C/)
 8. [Vök Baths, 8H33+G5 Fellabær, Iceland Vok vid Urridavatn, 701 Egilsstadir, Iceland](https://www.airbnb.com/things-to-do/places/7674316)
-9. [Steinboginn in Stöðvarfjörður 1 hour drive +hike up mountain](https://shorturl.at/bUVX0)
-
-
+9. [Vök Baths, 8H33+G5 Fellabær, Iceland Vok vid Urridavatn, 701 Egilsstadir, Iceland](https://vokbaths.is/en/hours-prices/)
+10. [Steinboginn in Stöðvarfjörður 1 hour drive +hike up mountain](https://shorturl.at/bUVX0)
