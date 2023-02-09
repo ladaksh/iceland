@@ -104,15 +104,28 @@ Head out towards Vik
 ## 04-aug-2023 (fri)
 
 1. Visit Skaftafell National Park
-2. Drive towards Neskaupstaður
+2. If possible, visit Stöðvarfjörður, Iceland
+
+    ```text
+    Steinboginn in Stöðvarfjörður 1 hour drive +hike up mountain
+    ```
+
+3. Drive towards Neskaupstaður
 
 Note: This is a long drive for about 3.5 hours so this day will be exhausting.
 
 ## 05-aug-2023 (sat)
 
-1. Stuðlagil canyon
-2. <that place near the ladys house>
-3. Start driving towards Árskógssandur
+1. Vök Baths, 8H33+G5 Fellabær, Iceland Vok vid Urridavatn, 701 Egilsstadir, Iceland
+
+   ```text
+   Iceland is known for it's geothermal baths and wellness centers located all over the country. Vök is known for its floating hot pools in the Urriðavatn lake but it uniqueness is the source of the water. The East of Iceland does not have the abundance of geothermal energy as most parts of the country. The water you bathe in Vök baths comes from a mile deep (1600 meters) under the lake and is certified as the purest hot water in Iceland. Close to 70°C straight from the ground you can enjoy it in the warm pools as well as in your cup of tea with fresh Icelandic herbs from the tea bar.
+   ```
+
+2. Stuðlagil canyon
+3. Start driving towards Árskógssandur and arrive at Hrísey
+
+TODO: See if we can fit Vattarnes Sea Cliffs
 
 Start driving towards Árskógssandur while seeing sights along the way.
 
@@ -140,13 +153,17 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 1. Myvatn Hot Baths
 2. Detifoss Waterfall
-3. Drive towards Brúarfoss
+3. Start driving towards Árskógssandur
 
 ## 07-aug-2023 (mon)
 
-1. Snæfellsjökull National Park, Iceland
+1. Whale watching
+2. Kolugljúfur Canyon
+3. Drive towards Brúarfoss
 
 ## 08-aug-2023 (sun)
+
+1. Snæfellsjökull National Park, Iceland
 
 ## 09-aug-2023 (sun)
 
@@ -163,3 +180,8 @@ Price: Adults - 1700 isk and 12-15 years - 850
 4. [Brúarfoss](https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/)
 5. [Vestrahorn](https://guidetoiceland.is/connect-with-locals/nanna/the-three-horny-mountains-of-east-iceland-1)
 6. [Reynisfjara Black Sand Beach](https://guidetoiceland.is/travel-iceland/drive/reynisfjara)
+7. [Skyggnisvatn, 851, Iceland](https://www.instagram.com/p/CNnPF8rKf2C/)
+8. [Vök Baths, 8H33+G5 Fellabær, Iceland Vok vid Urridavatn, 701 Egilsstadir, Iceland](https://www.airbnb.com/things-to-do/places/7674316)
+9. [Steinboginn in Stöðvarfjörður 1 hour drive +hike up mountain](https://shorturl.at/bUVX0)
+
+
