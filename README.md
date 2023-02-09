@@ -11,7 +11,7 @@
   - [04-aug-2023 (fri)](#04-aug-2023-fri)
   - [05-aug-2023 (sat)](#05-aug-2023-sat)
   - [06-aug-2023 (sun)](#06-aug-2023-sun)
-  - [07-aug-2023 (sun)](#07-aug-2023-sun)
+  - [07-aug-2023 (mon)](#07-aug-2023-mon)
   - [08-aug-2023 (sun)](#08-aug-2023-sun)
   - [09-aug-2023 (sun)](#09-aug-2023-sun)
   - [things we want to do](#things-we-want-to-do)
@@ -39,12 +39,13 @@
 
 ## stays
 
-| #   | checkin          | checkin time | checkout         | checkout time | stay                                     |
-| --- | ---------------- | :----------: | ---------------- | ------------- | :--------------------------------------- |
+| #   | checkin          | checkin time | checkout         | checkout time | stay                                             |
+| --- | ---------------- | :----------: | ---------------- | ------------- | :----------------------------------------------- |
 | 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](https://shorturl.at/kwQX5)             |
 | 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](https://shorturl.at/kxyFZ) |
-| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](https://shorturl.at/lvMSW)       |
-| 4.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](https://shorturl.at/eilyU)              |
+| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Thu, 04-aug-2023 | 11:00 Hrs     | [Höfn](https://shorturl.at/dlnoP) |
+| 4.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](https://shorturl.at/lvMSW)       |
+| 5.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](https://shorturl.at/eilyU)              |
 
 ```text
         July                 August              September
@@ -60,8 +61,12 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ## 31-jul-2023 (mon)
 
 1. Arrive at Reykjavik (Keflavik)
-2. Head to Blue Lagoon
-3. Potential things to do:
+2. Pickup Rental Car
+3. Head to Blue Lagoon
+4. Head back to room at Akranes
+
+
+5. Potential things to do:
     1. Golden Circle (day 2)
     2. Blue Lagoon (day 1)
     3. Plane wreck (if possible else not) (low priority)
@@ -69,33 +74,42 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
     5. Town Center of Reykjavik (day 1)
     6. Snæfellsjökull National Park, Iceland (day 3)
 
-TODO: Please research the things to do.
-
 ## 01-aug-2023 (tue)
+
+1. Golden Circle
+2. Hiking in Thingvellir National Park
 
 Full moon!
 
-TODO: Please research the things to do.
+TODO: See if there are any activities at Thingvellir National Park
+TODO: How to fit Snæfellsjökull National Park, Iceland
 
 ## 02-aug-2023 (wed)
 
-TODO: Please research the things to do.
+Head out towards Vik
 
-Head out towards Vik. Plan to checkin by 17:00 Hrs. relax, dinner and get to bed before sunset. (22:38 Hrs)
-
-Can I do Skogafoss on this day? Or on the 3rd?
+1. Seljalandsfoss
+2. Gljúfrabúi
+3. Skógafoss
+4. Arrive at Kirkjubæjarklaustur
 
 ## 03-aug-2023 (thu)
 
-drive towards Neskaupstaður and see sights along the way
+1. Visit Jökulsárlón
+2. Stay at Höfn
 
 ## 04-aug-2023 (fri)
 
-TODO: Please research the things to do.
+1. Visit Skaftafell National Park
+2. Drive towards Neskaupstaður
+
+Note: This is a long drive for about 3.5 hours so this day will be exhausting.
 
 ## 05-aug-2023 (sat)
 
-TODO: Please research the things to do.
+1. Stuðlagil canyon
+2. <that place near the ladys house>
+3. Start driving towards Árskógssandur
 
 Start driving towards Árskógssandur while seeing sights along the way.
 
@@ -121,7 +135,10 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 ## 06-aug-2023 (sun)
 
-## 07-aug-2023 (sun)
+1. Myvatn Hot Baths
+2. Detifoss Waterfall
+
+## 07-aug-2023 (mon)
 
 ## 08-aug-2023 (sun)
 
