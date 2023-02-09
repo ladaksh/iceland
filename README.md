@@ -77,6 +77,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ## 01-aug-2023 (tue)
 
 1. Golden Circle
+   1. Bruarfoss is located in Golden Circle but requires a bit of a hike
 2. Hiking in Thingvellir National Park
 
 Full moon!
@@ -91,12 +92,14 @@ Head out towards Vik
 1. Seljalandsfoss
 2. Gljúfrabúi
 3. Skógafoss
-4. Arrive at Kirkjubæjarklaustur
+4. Reynisfjara Black Sand Beach
+5. Arrive at Kirkjubæjarklaustur
 
 ## 03-aug-2023 (thu)
 
 1. Visit Jökulsárlón
-2. Stay at Höfn
+2. Vestrahorn, 781, Iceland
+3. Stay at Höfn
 
 ## 04-aug-2023 (fri)
 
@@ -137,8 +140,11 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 1. Myvatn Hot Baths
 2. Detifoss Waterfall
+3. Drive towards Brúarfoss
 
 ## 07-aug-2023 (mon)
+
+1. Snæfellsjökull National Park, Iceland
 
 ## 08-aug-2023 (sun)
 
@@ -148,11 +154,12 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 1. Vattarnes Sea Cliffs
 2. Whale watching
-3. Myvatn hot baths and geysers (day 1)
-4. Detifoss waterfall (day 2)
 
 ## references
 
 1. [Hrisey Ferry Schedule](https://www.hrisey.is/en/ferry-schedule)
 2. [Sunrise Schedule](https://www.timeanddate.com/sun/iceland/reykjavik?month=8&year=2023)
 3. [Things to do in Iceland](https://handluggageonly.co.uk/2015/10/08/11-dramatic-experiences-you-must-have-in-iceland/)
+4. [Brúarfoss](https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/)
+5. [Vestrahorn](https://guidetoiceland.is/connect-with-locals/nanna/the-three-horny-mountains-of-east-iceland-1)
+6. [Reynisfjara Black Sand Beach](https://guidetoiceland.is/travel-iceland/drive/reynisfjara)
