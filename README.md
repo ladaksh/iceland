@@ -12,8 +12,8 @@
   - [05-aug-2023 (sat)](#05-aug-2023-sat)
   - [06-aug-2023 (sun)](#06-aug-2023-sun)
   - [07-aug-2023 (mon)](#07-aug-2023-mon)
-  - [08-aug-2023 (sun)](#08-aug-2023-sun)
-  - [09-aug-2023 (sun)](#09-aug-2023-sun)
+  - [08-aug-2023 (tue)](#08-aug-2023-tue)
+  - [09-aug-2023 (wed)](#09-aug-2023-wed)
   - [things we want to do](#things-we-want-to-do)
   - [references](#references)
 
@@ -39,13 +39,15 @@
 
 ## stays
 
-| #   | checkin          | checkin time | checkout         | checkout time | stay                                             |
-| --- | ---------------- | :----------: | ---------------- | ------------- | :----------------------------------------------- |
-| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](https://shorturl.at/kwQX5)             |
-| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](https://shorturl.at/kxyFZ) |
-| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Thu, 04-aug-2023 | 11:00 Hrs     | [Höfn](https://shorturl.at/dlnoP) |
-| 4.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](https://shorturl.at/lvMSW)       |
-| 5.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](https://shorturl.at/eilyU)              |
+| #   | checkin          | checkin time | checkout         | checkout time | stay                                                |
+| --- | ---------------- | :----------: | ---------------- | ------------- | :-------------------------------------------------- |
+| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](https://shorturl.at/kwQX5)                |
+| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](https://shorturl.at/kxyFZ)    |
+| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Thu, 04-aug-2023 | 11:00 Hrs     | [Höfn](https://shorturl.at/dlnoP)                   |
+| 4.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](https://shorturl.at/lvMSW)          |
+| 5.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](https://shorturl.at/eilyU)                 |
+| 6.  | Sun, 06-aug-2023 |  16:00 Hrs   | Mon, 07-aug-2023 | 13:00 Hrs     | [Búðardalur](https://shorturl.at/bceOR)             |
+| 7.  | Mon, 07-aug-2023 |  16:00 Hrs   | Wed, 09-aug-2023 | 12:00 Hrs     | [Blaskogarbyggd, Capital Region](shorturl.at/crxDK) |
 
 ```text
         July                 August              September
@@ -103,14 +105,20 @@ Head out towards Vik
 
 3. Drive towards Neskaupstaður
 
-Note: This is a long drive for about 3.5 hours so this day will be exhausting.
+Note: This is a long drive of about 3.5 hours, so this day will be exhausting.
 
 ## 05-aug-2023 (sat)
+
+TODO: Reserve the Vök Baths
 
 1. Vök Baths, 8H33+G5 Fellabær, Iceland Vok vid Urridavatn, 701 Egilsstadir, Iceland
 
    ```text
-   Iceland is known for it's geothermal baths and wellness centers located all over the country. Vök is known for its floating hot pools in the Urriðavatn lake but it uniqueness is the source of the water. The East of Iceland does not have the abundance of geothermal energy as most parts of the country. The water you bathe in Vök baths comes from a mile deep (1600 meters) under the lake and is certified as the purest hot water in Iceland. Close to 70°C straight from the ground you can enjoy it in the warm pools as well as in your cup of tea with fresh Icelandic herbs from the tea bar.
+   Iceland is known for it's geothermal baths and wellness centers located all over the country.
+   Vök is known for its floating hot pools in the Urriðavatn lake but it uniqueness is the source of the water.
+   The East of Iceland does not have the abundance of geothermal energy as most parts of the country.
+   The water you bathe in Vök baths comes from a mile deep (1600 meters) under the lake and is certified as the purest hot water in Iceland.
+   Close to 70°C straight from the ground you can enjoy it in the warm pools as well as in your cup of tea with fresh Icelandic herbs from the tea bar.
    ```
 
 2. Stuðlagil canyon
@@ -148,18 +156,22 @@ Price: Adults - 1700 isk and 12-15 years - 850
 
 ## 07-aug-2023 (mon)
 
+TODO: Reserve the Whale watching for 09:00 Hrs
+
 1. Whale watching
 2. Kolugljúfur Canyon
 3. Drive towards Brúarfoss
 
-## 08-aug-2023 (sun)
+## 08-aug-2023 (tue)
 
 1. Snæfellsjökull National Park, Iceland
 
-## 09-aug-2023 (sun)
+TODO: Book a spot to live for 09-aug-2023 in Reykjavik or close to the Skyggnisvatn crater
 
-1. Town c
-2. Head out from Reyjkavik on 09-aug-2023 evening
+## 09-aug-2023 (wed)
+
+1. Town center / Skyggnisvatn crater
+2. Head out from Reykjavik (Keflavik) on 09-aug-2023 evening
 
 ## things we want to do
 
