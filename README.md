@@ -11,6 +11,9 @@
   - [04-aug-2023 (fri)](#04-aug-2023-fri)
   - [05-aug-2023 (sat)](#05-aug-2023-sat)
   - [06-aug-2023 (sun)](#06-aug-2023-sun)
+  - [07-aug-2023 (sun)](#07-aug-2023-sun)
+  - [08-aug-2023 (sun)](#08-aug-2023-sun)
+  - [09-aug-2023 (sun)](#09-aug-2023-sun)
   - [things we want to do](#things-we-want-to-do)
   - [references](#references)
 
@@ -38,10 +41,10 @@
 
 | #   | checkin          | checkin time | checkout         | checkout time | stay                                     |
 | --- | ---------------- | :----------: | ---------------- | ------------- | :--------------------------------------- |
-| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](shorturl.at/kwQX5)             |
-| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](shorturl.at/kxyFZ) |
-| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](shorturl.at/lvMSW)       |
-| 4.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](shorturl.at/eilyU)              |
+| 1.  | Mon, 31-jul-2023 |  15:00 Hrs   | Wed, 02-aug-2023 | 12:00 Hrs     | [Akranes](https://shorturl.at/kwQX5)             |
+| 2.  | Wed, 02-aug-2023 |  16:00 Hrs   | Thu, 03-aug-2023 | 11:00 Hrs     | [Kirkjubæjarklaustur](https://shorturl.at/kxyFZ) |
+| 3.  | Thu, 03-aug-2023 |  15:00 Hrs   | Sat, 05-aug-2023 | 11:00 Hrs     | [Neskaupstaður](https://shorturl.at/lvMSW)       |
+| 4.  | Sat, 05-aug-2023 |  16:00 Hrs   | Tue, 08-aug-2023 | 13:00 Hrs     | [Hrísey](https://shorturl.at/eilyU)              |
 
 ```text
         July                 August              September
@@ -69,6 +72,8 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 TODO: Please research the things to do.
 
 ## 01-aug-2023 (tue)
+
+Full moon!
 
 TODO: Please research the things to do.
 
@@ -115,6 +120,12 @@ Price: Adults - 1700 isk and 12-15 years - 850
 ```
 
 ## 06-aug-2023 (sun)
+
+## 07-aug-2023 (sun)
+
+## 08-aug-2023 (sun)
+
+## 09-aug-2023 (sun)
 
 ## things we want to do
 
